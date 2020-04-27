@@ -11,4 +11,6 @@ All human sequencing data is available on NCBI with BioProject ID PRJNA609924.
 
 Alignment was performed using Cellranger v3.1.0 using feature barcoding. Feature barcode tables for the alignment are found in /feature_barcoding_tables/ of this repository.
 
+sample_annots.csv contains sample metadata for each sample included in the study.
+
 Please contact andrew.leader@icahn.mssm.edu with any questions.
