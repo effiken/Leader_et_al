@@ -1,4 +1,4 @@
-##LEADER_ET_AL
+## LEADER_ET_AL
 
 This repository contains matadata necessary for alignment and analysis of the human NSCLC CITEseq dataset presented in
  Maier, B., Leader, A.M., Chen, S.T. et al. A conserved dendritic-cell regulatory program limits antitumour immunity. Nature 580, 257–262 (2020). https://doi.org/10.1038/s41586-020-2134-y
