@@ -76,6 +76,10 @@ Additional data files necessary to reproduce the plots will also download.
 Figure will be generated in a new directory:
   - output/figures/
 
+### Notes on specific panels
+1. Figure S1A: This panel is generated during clustering, in the call to cluster() in the run_clustering.R script
+2. Figures S1B, S1C: Functions to generate these plots are in the figure_s1bc.R script, but specific reproduction of these panels in the figures_main.R script has not yet been implemented.
+
 ## Clustering
 
 ### Requirements
