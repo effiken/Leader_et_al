@@ -1,0 +1,61 @@
+cluster,lineage,sub_lineage,norm_group,lig_rec_group
+1,T,T_GZMK,T,T
+2,MNP,CD14 mono,mo&mac,mono
+3,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+4,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+5,MNP,MoMac-IV,mo&mac,mac
+6,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+7,mast,mast,lin_neg,mast
+8,MNP,IM,mo&mac,mac
+9,B&plasma,IgG,B&plasma,plasma
+10,MNP,AM,mo&mac,mac
+11,MNP,MoMac-II,mo&mac,mac
+12,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+13,NK,NK,lin_neg,NK
+14,MNP,cDC2,DC,cDC
+15,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+16,MNP,AZU1_mac,mo&mac,mac
+17,B&plasma,IgG,B&plasma,plasma
+18,T,Tcycle,T,T
+19,T,Treg,T,T
+20,T,T_Nklike,T,T
+21,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+22,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+23,MNP,CD16 mono,mo&mac,mono
+24,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+25,MNP,AM,mo&mac,mac
+26,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+27,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate
+28,B&plasma,IgG,B&plasma,plasma
+29,MNP,DC3,DC,DC3
+30,MNP,DC3,DC,DC3
+31,B&plasma,IgA,B&plasma,plasma
+32,MNP,MoMac-III,mo&mac,mac
+33,MNP,MoMac-III,mo&mac,mac
+34,T,Tcm/naive_II,T,T
+35,MNP,MoMac-I,mo&mac,mac
+36,MNP,CD14 mono,mo&mac,mono
+37,pDC,pDC,lin_neg,pDC
+38,MNP,MoMac-III,mo&mac,mac
+39,T,Tcm/naive_I,T,T
+40,B&plasma,IgM,B&plasma,plasma
+41,MNP,mregDC,DC,cDC
+42,MNP,MoMac-II,mo&mac,mac
+43,B&plasma,IgD,B&plasma,plasma
+44,T,T_activated,T,T
+45,MNP,cDC1,DC,cDC
+46,B&plasma,IgG,B&plasma,plasma
+47,MNP,MoMac-IV,mo&mac,mac
+48,T,CD8 Trm,T,T
+49,MNP,CD14 mono,mo&mac,mono
+50,T,CD4 Trm,T,T
+51,T,Tcm/naive_I,T,T
+52,MNP,DC3,DC,DC3
+53,T,Tcm/naive_II,T,T
+54,MNP,AM,mo&mac,mac
+55,MNP,AM,mo&mac,mac
+56,B&plasma,B,B&plasma,B
+57,MNP,AM,mo&mac,mac
+58,MNP,CD14 mono,mo&mac,mono
+59,T,CD4 Trm,T,T
+60,epi_endo_fibro_doublet,,epi_endo_fibro_doublet,gate

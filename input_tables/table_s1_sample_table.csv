@@ -1,0 +1,155 @@
+﻿sample_ID,patient_ID,amp_batch_ID,old_lib_name,HTO,tissue,disease,Use.in.Clustering.Model.,library_chemistry,prime,vdj_kit,prep,metadata_indicator,biopsy_site
+36,558,36,558T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+37,564,37,564N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+38,564,38,564T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+39,569,39,569N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+40,569,40,569T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+41,570,41,570N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+42,570,42,570T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+43,571,43,571T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+44,572,44,572N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+45,572,45,572T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+46,578,46,578N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+47,578,47,578T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+48,581,48,581TN,1,Tumor,LUAD,No,V2,3,,beads,,
+49,581,48,581TN,2,Normal,LUAD,No,V2,3,,beads,,
+50,581,49,581N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+51,581,50,581T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+52,584,51,584TN1,1,Tumor,LUSC,Yes,V2,3,,beads,,
+53,584,52,584TN2,1,Tumor,LUSC,No,V2,3,,beads,,
+54,584,51,584TN1,2,Normal,LUSC,Yes,V2,3,,beads,,
+55,584,52,584TN2,2,Normal,LUSC,No,V2,3,,beads,,
+56,593,53,593TN,"1,2,3,4,5,6,7,8",Normal,LUAD,Yes,V2,3,,beads,,
+57,593,53,593TN,"9,10",Tumor,LUAD,Yes,V2,3,,beads,,
+58,596,54,596TN1,3,Tumor,LUAD,Yes,V2,3,,beads,,
+59,596,55,596TN2,3,Tumor,LUAD,No,V2,3,,beads,,
+60,596,54,596TN1,4,Normal,LUAD,Yes,V2,3,,beads,,
+61,596,55,596TN2,4,Normal,LUAD,No,V2,3,,beads,,
+62,630,56,630TN,"1,2,3,4,5",Tumor,LUAD,Yes,V2,3,,beads,,
+63,630,56,630TN,"6,7,8,9,10",Normal,LUAD,Yes,V2,3,,beads,,
+95,626,88,626TN1,"1,2,3,4,5",Tumor,LUAD,Yes,V2,3,,beads,,
+96,626,88,626TN1,"6,7,8,9,10",Normal,LUAD,Yes,V2,3,,beads,,
+97,626,89,626TN2,"1,2,3,4,5",Tumor,LUAD,No,V2,3,,beads,,
+98,626,89,626TN2,"6,7,8,9,10",Normal,LUAD,No,V2,3,,beads,,
+99,695,90,7001v2A,"1,2,3,4",Tumor,LUAD,Yes,V2,3,,digest/dead cell,,
+100,695,90,7001v2A,"5,6,7,8",Normal,LUAD,Yes,V2,3,,digest/dead cell,,
+103,695,91,7001v2B,"1,2,3,4",Tumor,LUAD,No,V2,3,,digest/dead cell,,
+104,695,91,7001v2B,"5,6,7,8",Normal,LUAD,No,V2,3,,digest/dead cell,,
+107,695,92,7001v2C,"1,2,3,4",Tumor,LUAD,No,V2,3,,digest/dead cell,,
+108,695,92,7001v2C,"5,6,7,8",Normal,LUAD,No,V2,3,,digest/dead cell,,
+111,695,93,7001v2D,"1,2,3,4",Tumor,LUAD,No,V2,3,,digest/dead cell,,
+112,695,93,7001v2D,"5,6,7,8",Normal,LUAD,No,V2,3,,digest/dead cell,,
+115,695,94,7001N5,NA,Normal,LUAD,No,V1,5,TCR,CD2,,
+116,695,95,7001T5,NA,Tumor,LUAD,No,V1,5,TCR,CD2,,
+297,338,230,lib39,NA,Tumor,LUAD,No,V1,3,,sort,,
+298,338,231,lib40,NA,Tumor,LUAD,No,V1,3,,sort,,
+310,370,1,normal_370,NA,Normal,LUAD,Yes,V2,3,,beads,,
+311,370,2,tumor_370,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+312,371,3,normal_371,NA,Normal,LUAD,Yes,V2,3,,beads,,
+313,371,4,tumor_371,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+314,377,5,normal_377,NA,Normal,LUSC,Yes,V2,3,,beads,,
+315,377,6,tumor_377,NA,Tumor,LUSC,Yes,V2,3,,beads,,
+316,378,7,378N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+317,378,8,378T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+318,393,9,178,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+319,403,10,403N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+320,403,11,403T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+323,406,14,406N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+324,406,15,406T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+325,408,16,normal_408,NA,Normal,LUAD,Yes,V2,3,,beads,,
+326,408,17,tumor_408,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+327,410,18,normal_410,NA,Normal,LUAD,Yes,V2,3,,beads,,
+328,410,19,tumor_410,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+331,458,22,458N,NA,Normal,LUAD,No,V2,3,,sort,,
+332,458,23,458T,NA,Tumor,LUAD,No,V2,3,,sort,,
+333,460,24,460N,NA,Normal,LUAD,No,V2,3,,sort,,
+334,460,25,460T,NA,Tumor,LUAD,No,V2,3,,sort,,
+335,464,26,464N,NA,Normal,LUAD,No,V2,3,,sort,,
+336,464,27,464T,NA,Tumor,LUAD,No,V2,3,,sort,,
+337,514,28,514N,NA,Normal,LUAD,Yes,V2,3,,beads,,
+338,514,29,514T,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+339,522,30,BM174N,NA,Normal,LUSC,Yes,V2,3,,beads,,
+340,522,31,BM174T,NA,Tumor,LUSC,Yes,V2,3,,beads,,
+341,532,32,532N,NA,Normal,LUAD,Yes,V2,3,,sort,,
+342,532,33,532T,NA,Tumor,LUAD,Yes,V2,3,,sort,,
+343,522,244,5TEST1N,NA,Normal,LUSC,No,V1,5,"TCR,BCR",beads,,
+344,522,245,5TEST1T,NA,Tumor,LUSC,No,V1,5,"TCR,BCR",beads,,
+398,714,292,714T,NA,Tumor,LUSC,Yes,V2,3,,beads,,
+399,714,293,714N,NA,Normal,LUSC,Yes,V2,3,,beads,,
+413,729,307,IN190329,NA,Normal,LUAD,Yes,V2,3,,beads,,
+414,729,308,IT190329,NA,Tumor,LUAD,Yes,V2,3,,beads,,
+415,725,309,HS190415I,NA,Tumor,LUAD,No,V3,3,,beads,,
+448,706,342,7002v2A,"1,2",Tumor,LUSC,Yes,V2,3,,digest/dead cell,,
+449,706,342,7002v2A,"3,4",Normal,LUSC,Yes,V2,3,,digest/dead cell,,
+452,706,343,7002v2B,"1,2",Tumor,LUSC,No,V2,3,,digest/dead cell,,
+453,706,343,7002v2B,"3,4",Normal,LUSC,No,V2,3,,digest/dead cell,,
+456,706,344,7002v2C,"1,2",Tumor,LUSC,No,V2,3,,digest/dead cell,,
+457,706,344,7002v2C,"3,4",Normal,LUSC,No,V2,3,,digest/dead cell,,
+460,706,345,7002v2D,"1,2",Tumor,LUSC,No,V2,3,,digest/dead cell,,
+461,706,345,7002v2D,"3,4",Normal,LUSC,No,V2,3,,digest/dead cell,,
+464,706,346,7002v2E,"1,2",Tumor,LUSC,No,V2,3,,digest/dead cell,,
+465,706,346,7002v2E,"3,4",Normal,LUSC,No,V2,3,,digest/dead cell,,
+468,706,347,7002v2F,"1,2",Tumor,LUSC,No,V2,3,,digest/dead cell,,
+469,706,347,7002v2F,"3,4",Normal,LUSC,No,V2,3,,digest/dead cell,,
+472,706,348,7002v2G,"1,2",Tumor,LUSC,No,V2,3,,digest/dead cell,,
+473,706,348,7002v2G,"3,4",Normal,LUSC,No,V2,3,,digest/dead cell,,
+480,706,350,7002N5,NA,Normal,LUSC,No,V1,5,TCR,CD2,,
+481,706,351,7002T5,NA,Tumor,LUSC,No,V1,5,TCR,CD2,,
+851,800,668,800TI_0_G,NA,Tumor,LUAD,No,V3,3,,beads,,
+64,Lambrechts_2,57,1247,NA,Normal,LUSC,No,V1,3,,,,NA
+65,Lambrechts_1,58,BT1A,NA,Tumor,LUSC,No,V1,3,,,,Core
+66,Lambrechts_1,59,BT1B,NA,Tumor,LUSC,No,V1,3,,,,Middle
+67,Lambrechts_1,60,BT1C,NA,Tumor,LUSC,No,V1,3,,,,Edge
+68,Lambrechts_2,61,BT2A,NA,Tumor,LUSC,No,V1,3,,,,Middle
+69,Lambrechts_2,62,BT2B,NA,Tumor,LUSC,No,V1,3,,,,Edge
+70,Lambrechts_2,63,BT1249,NA,Tumor,LUSC,No,V1,3,,,,Core
+71,Lambrechts_3,64,BT1290,NA,Tumor,LUAD,No,V2,3,,,,Edge
+72,Lambrechts_3,65,BT1291,NA,Tumor,LUAD,No,V2,3,,,,Middle
+73,Lambrechts_3,66,BT1292,NA,Tumor,LUAD,No,V2,3,,,,Core
+74,Lambrechts_3,67,BT1293,NA,Normal,LUAD,No,V2,3,,,,NA
+75,Lambrechts_4,68,BT1294,NA,Normal,LUAD,No,V2,3,,,,NA
+76,Lambrechts_4,69,BT1295,NA,Tumor,LUAD,No,V2,3,,,,Edge
+77,Lambrechts_4,70,BT1296,NA,Tumor,LUAD,No,V2,3,,,,Middle
+78,Lambrechts_4,71,BT1297,NA,Tumor,LUAD,No,V2,3,,,,Core
+79,Lambrechts_5,72,BT1298,NA,Tumor,Large cell,No,V2,3,,,,Core
+80,Lambrechts_5,73,BT1299,NA,Tumor,Large cell,No,V2,3,,,,Edge
+81,Lambrechts_5,74,BT1300,NA,Tumor,Large cell,No,V2,3,,,,Middle
+82,Lambrechts_5,75,BT1301,NA,Normal,Large cell,No,V2,3,,,,NA
+83,Lambrechts_7,76,BT1375,NA,Tumor,LUSC,No,V2,3,,,,Core
+84,Lambrechts_7,77,BT1376,NA,Tumor,LUSC,No,V2,3,,,,Middle
+85,Lambrechts_7,78,BT1377,NA,Tumor,LUSC,No,V2,3,,,,Edge
+86,Lambrechts_7,79,BT1378,NA,Normal,LUSC,No,V2,3,,,,NA
+87,Lambrechts_8,80,scrBT1425_hg19,NA,Tumor,Pleiomorphic,No,V2,3,,,,Core
+88,Lambrechts_8,81,scrBT1426_hg19,NA,Tumor,Pleiomorphic,No,V2,3,,,,Middle
+89,Lambrechts_8,82,scrBT1427_hg19,NA,Tumor,Pleiomorphic,No,V2,3,,,,Edge
+90,Lambrechts_8,83,scrBT1428_hg19,NA,Normal,Pleiomorphic,No,V2,3,,,,NA
+91,Lambrechts_6,84,scrBT1429m,NA,Normal,LUAD,No,V2,3,,,,NA
+92,Lambrechts_6,85,scrBT1430m,NA,Tumor,LUAD,No,V2,3,,,,Edge
+93,Lambrechts_6,86,scrBT1431m,NA,Tumor,LUAD,No,V2,3,,,,Middle
+94,Lambrechts_6,87,scrBT1432m,NA,Tumor,LUAD,No,V2,3,,,,Core
+356,zilionis_1,250,1.counts,NA,Tumor,LUSC,No,indrop,3,,,p1t1,
+357,zilionis_1,251,2.counts,NA,Tumor,LUSC,No,indrop,3,,,p1t2,
+358,zilionis_1,252,3.counts,NA,Tumor,LUSC,No,indrop,3,,,p1t3,
+359,zilionis_1,253,4.counts,NA,Tumor,LUSC,No,indrop,3,,,p1t4,
+360,zilionis_1,254,5.counts,NA,WB,LUSC,No,indrop,3,,,p1b1,
+361,zilionis_1,255,6.counts,NA,WB,LUSC,No,indrop,3,,,p1b2,
+362,zilionis_1,256,7.counts,NA,WB,LUSC,No,indrop,3,,,p1b3,
+363,zilionis_2,257,p2b1.counts,NA,WB,LUSC,No,indrop,3,,,p2b1,
+364,zilionis_2,258,p2t1.counts,NA,Tumor,LUSC,No,indrop,3,,,p2t1,
+365,zilionis_2,259,p2t2.counts,NA,Tumor,LUSC,No,indrop,3,,,p2t2,
+366,zilionis_3,260,p4b1.counts,NA,WB,LUAD,No,indrop,3,,,p4b1,
+367,zilionis_3,261,p4t1.counts,NA,Tumor,LUAD,No,indrop,3,,,p4t1,
+368,zilionis_3,262,p4t2.counts,NA,Tumor,LUAD,No,indrop,3,,,p4t2,
+369,zilionis_3,263,p4t3.counts,NA,Tumor,LUAD,No,indrop,3,,,p4t3,
+370,zilionis_4,264,p5b1.counts,NA,WB,LUAD,No,indrop,3,,,p5b1,
+371,zilionis_4,265,p5t1.counts,NA,Tumor,LUAD,No,indrop,3,,,p5t1,
+372,zilionis_4,266,p5t2.counts,NA,Tumor,LUAD,No,indrop,3,,,p5t2,
+373,zilionis_4,267,p5t3.counts,NA,Tumor,LUAD,No,indrop,3,,,p5t3,
+374,zilionis_5,268,p6t1.counts,NA,Tumor,LUAD,No,indrop,3,,,p6t1,
+375,zilionis_5,269,p6t2.counts,NA,Tumor,LUAD,No,indrop,3,,,p6t2,
+376,zilionis_6,270,p7b1.counts,NA,WB,LUAD,No,indrop,3,,,p7b1,
+377,zilionis_6,271,p7t1.counts,NA,Tumor,LUAD,No,indrop,3,,,p7t1,
+378,zilionis_6,272,p7t2.counts,NA,Tumor,LUAD,No,indrop,3,,,p7t2,
+379,zilionis_7,273,p8b1.counts,NA,WB,LUAD,No,indrop,3,,,p8b1,
+380,zilionis_7,274,p8t1.counts,NA,Tumor,LUAD,No,indrop,3,,,p8t1,
+381,zilionis_7,275,p8t2.counts,NA,Tumor,LUAD,No,indrop,3,,,p8t2,

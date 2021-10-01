@@ -5,7 +5,7 @@ This repository contains matadata necessary for alignment and analysis of the hu
  
 and
 
-Leader, et al. (in preparation as of 4/27/20)
+Leader, A.M., Grout, J., et al. Cancer Cell, in press (2021).
 
 All human sequencing data is available on NCBI with BioProject ID PRJNA609924.
 
