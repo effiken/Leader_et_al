@@ -164,3 +164,5 @@ figure_5abcd_s5a()
 #TCGA and CPTAC bulk analyses
 source("scripts/figure_6ac_s6abcdefjklmnopqr_7abcd_s7ab.R")
 figure_6ac_s6abcdefjklmnopqr_7abcd_s7ab()
+source("scripts/figure_6b_s6ghi.R")
+figure_6b_s6ghi()
