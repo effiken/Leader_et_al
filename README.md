@@ -79,6 +79,8 @@ Figure will be generated in a new directory:
 ### Notes on specific panels
 1. Figure S1A: This panel is generated during clustering, in the call to cluster() in the run_clustering.R script
 2. Figures S1B, S1C: Functions to generate these plots are in the figure_s1bc.R script, but specific reproduction of these panels in the figures_main.R script has not yet been implemented.
+3. Figures 7E, F and S7C, D requires downloading additional TCGA expression and mutation data. The script figure_7ef_s7cd.R performs all downloading and analysis but is not implemented inline with figures_main.R because the downloading step is time- and memory-intensive and sometimes quits unexpectedly.
+4. Figures 7G-J and S7E-H analyze data from the POPLAR trial from Genentech but is not publically available.
 
 ## Clustering
 
