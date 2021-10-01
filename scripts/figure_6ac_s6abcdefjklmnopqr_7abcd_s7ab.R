@@ -279,7 +279,7 @@ tumor_split <- split(colnames(z_mat),ep_group)
 score1 <- score(z_mat,score_mat,module1_types)
 score2 <- score(z_mat,score_mat,module2_types)
 
-#save(score1,score2,z_mat,file = "intermediates/TCGA_scores_revise.rd")
+save(score1,score2,z_mat,file = "output/statistics/TCGA_scores.rd")
 
 # layout(matrix(1:12,nrow=3,ncol=4,byrow=T))
 # for(iter in 1:10){
