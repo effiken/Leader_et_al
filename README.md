@@ -12,7 +12,11 @@ Please contact andrew.leader@icahn.mssm.edu with any questions.
 
 ## Downloading the data
 
-Data can either be downloaded automatically by running the script to reproduce the figures (see below).
+A .csv file with cell-ID to cluster and cell-ID to sample associations can be downloaded from /input_tables/cell_metadata.csv.
+Cluster annotations are available in /input_tables/annots_list.csv (column "sub_lineage").
+Sample-level metadata is available in the published Table S1 and provided in /input_tables/table_s1_sample_table.csv.
+
+The full dataset can either be downloaded automatically by running the script to reproduce the figures (see below).
 Alternatively, .rd files can be downloaded using the following dropbox links:
 
 human NSCLC scRNA & CITEseq data: https://www.dropbox.com/s/vjbide8ro5iwrfh/lung_ldm.rd?dl=1
