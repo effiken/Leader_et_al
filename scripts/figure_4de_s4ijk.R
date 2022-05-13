@@ -1,5 +1,5 @@
 
-library(scTools)
+
 library(scDissector)
 library(matrixStats)
 library(scales)
