@@ -55,13 +55,27 @@ The data structure is called "lung_ldm" and has the following components:
 Tested on Windows 10
 
 1. R
-2. R packages (incomplete as of 10/1/21, will update shortly): 
+2. R packages: 
 	- gplots
+	- MASS
+	- Matrix
+	- matrixStats
 	- Matrix.utils
 	- mixtools
+	- plotrix
+	- data.table
+	- tidyr
+	- CePa
 	- seriation
 	- sp
 	- scales
+	- skmeans
+	- RColorBrewer
+	- R.devices
+	- TCGAbiolinks
+	- SummarizedExperiment
+	- GenomicDataCommons
+	- viridis
 	- [scDissector](https://github.com/effiken/scDissector)
 
 3. Downloaded and unzipped version of this repository  on a local path.
